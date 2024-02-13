@@ -1,2 +1,9 @@
 # nlw-experts
-Aprendizado criando um quiz
+Aprendizado criando um 
+
+## Tecnologias utilizadas
+
+-html
+-css
+-javascript
+-github
